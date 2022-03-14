@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{32D992B6-22A5-41C4-9F8C-576A6BA80269}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="30" />
+      <File FileName="Data/AppDbContext.cs" />
+      <File FileName="Data/DbContext.cs" />
+      <File FileName="Data/DbContextOptions.cs" />
+      <File FileName="Startup.cs" Line="10" Column="1" />
+      <File FileName="Data/DbSet.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorello_Template" expanded="True">
+            <Node name="Fiorello_Template" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Fiorello__Template PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
